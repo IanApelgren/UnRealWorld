@@ -16,7 +16,7 @@ It is an old game with multiple complex systems. Graphically, however the game i
 
 Download
 ----
-you can see what is required to play and download the game [here](/download/)
+you can see what is required to play and download the game [here](https://ianapelgren.github.io/UnRealWorld/download/)
 
 Getting Started 
 ----
