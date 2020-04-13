@@ -28,5 +28,5 @@ permalink: /character/
 
 10.Lastly you choose a games course. These are objectives given to you that can offer various difficulties to the game.
 
-[navigate back to the main page](/MainPage)
+[navigate back to the main page](https://ianapelgren.github.io/UnRealWorld/MainPage/)
 
