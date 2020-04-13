@@ -17,5 +17,5 @@ to play simply extract the files and run urw.exe
 Also once you get aclimated with the game and want to modify you can find a list of popular mods for the game 
 [here](https://www.unrealworld.fi/wiki/index.php?title=Mods).
 
-[navigate back to the main page](/MainPage)
+[navigate back to the main page](https://ianapelgren.github.io/UnRealWorld/MainPage/)
 
