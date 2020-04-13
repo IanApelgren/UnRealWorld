@@ -16,11 +16,11 @@ It is an old game with multiple complex systems. Graphically, however the game i
 
 Download
 ----
-you can see what is required to play and download the game [here](https://ianapelgren.github.io/UnRealWorld/download/)
+you can see what is required to play and download the game [here](/download/)
 
 Getting Started 
 ----
-Character creation is the first major hurdle UnReal World faces you with you can find the steps needed to do so [here](https://ianapelgren.github.io/UnRealWorld/character)
+Character creation is the first major hurdle UnReal World faces you with you can find the steps needed to do so [here](https://ianapelgren.github.io/UnRealWorld/character/)
 
 FAQ
 ----
